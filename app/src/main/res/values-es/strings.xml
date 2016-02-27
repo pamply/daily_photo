@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spanish Version</string>
+
+
+
+    <!-- Labels main view -->
+    <string name="main_view_title">Descubre cual es tu foto del dia</string>
+    <string name="main_view_btn">Descubrir</string>
+
+    <!-- Labels photo daily view -->
+    <string name="daily_photo_view_name">Foto del dia</string>
+
+</resources>

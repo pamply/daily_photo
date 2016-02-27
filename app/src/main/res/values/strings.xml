@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">English Version</string>
+
+    <!-- Labels main view -->
+    <string name="main_view_title">Discover your daily photo</string>
+    <string name="main_view_btn">Discover</string>
+
+    <!-- Labels photo daily view -->
+    <string name="daily_photo_view_name">Daily photo</string>
+
+</resources>
